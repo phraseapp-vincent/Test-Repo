@@ -6,7 +6,7 @@ phraseapp:
     sources:
     - file: "./en.csv"
       params:
-        locale_id: "5f529760b8cad6de1d370e9adbc519f9"
+        locale_id: "e3ff649e2ce54607902248c812ccb2ec"
         # update_translations: true
         # update_descriptions: true
         format_options:
@@ -17,4 +17,4 @@ phraseapp:
     targets:
     - file: "./en.csv"
       params:
-        locale_id: "5f529760b8cad6de1d370e9adbc519f9"
+        locale_id: "e3ff649e2ce54607902248c812ccb2ec"
