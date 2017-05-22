@@ -7,8 +7,8 @@ phraseapp:
     - file: "./en.csv"
       params:
         locale_id: "5f529760b8cad6de1d370e9adbc519f9"
-        update_translations: true
-        update_descriptions: true
+        # update_translations: true
+        # update_descriptions: true
         format_options:
           key_index: 1
           translation_index: 2
