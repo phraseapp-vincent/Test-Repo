@@ -16,7 +16,3 @@ phraseapp:
     - file: "./en.csv"
       params:
         locale_id: "52db31b2f610c2fb209231a70b29f059"
-        format_options:
-          key_index: 1
-          translation_index: 2
-          comment_index: 3
