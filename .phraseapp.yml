@@ -1,0 +1,10 @@
+phraseapp:
+  access_token: "063c6e66ff5dc3f349e23a337a6795b2fd8aca8344ae877b92f9d7150e629a1d"
+  project_id: "2bc068cf9ed5989e19eefbc0c591be45"
+  file_format: "csv"
+  push:
+    sources:
+    - file: "./en.csv"
+  pull:
+    targets:
+    - file: "./en.csv"
