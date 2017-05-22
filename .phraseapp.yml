@@ -5,6 +5,10 @@ phraseapp:
   push:
     sources:
     - file: "./en.csv"
+      params:
+        locale_id: "52db31b2f610c2fb209231a70b29f059"
   pull:
     targets:
     - file: "./en.csv"
+      params:
+        locale_id: "52db31b2f610c2fb209231a70b29f059"
